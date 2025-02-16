@@ -18,10 +18,21 @@
   Learning programming since 2023. had an internship, participated in hackathons, case championships, etc. I got a part-time job at a startup writing models for algorithmic trading. For now, I would not recommend trading through them. On my way to a career change, wish me luck!
   
 ## Contact with me
-<a href="https://vk.com/your_profile" target="_blank">
+<a href="https://vk.com/nedcel" target="_blank">
   <img src="https://github.com/Nedcel/Nedcel/blob/main/VK%20Logo.png" alt="VK Logo" style="width: 50px; height: 50px;">
 </a>
 
+<a href="https://t.me/nedcel" target="_blank">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/tg%20logo.png" alt="TG Logo" style="width: 90px; height: 50px;">
+</a>
+
+<a href="mailto:artemkozinov@mail.ru" target="_blank">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/mail%20logo.png" alt="Mail Logo" style="width: 60px; height: 60px;">
+</a>
+
+<a href="mailto:barret.m82b@gmail.com" target="_blank">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/gmail%20logo.png" alt="Gmail Logo" style="width: 70px; height: 50px;">
+</a>
 
 
 ## My Skill Set  
