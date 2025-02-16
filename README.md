@@ -14,7 +14,14 @@
 </div>
 
 
-## About Me
+## Few Words About Me
+  Learning programming since 2023. had an internship, participated in hackathons, case championships, etc. I got a part-time job at a startup writing models for algorithmic trading. For now, I would not recommend trading through them. On my way to a career change, wish me luck!
+  
+## Contact with me
+<a href="https://vk.com/your_profile" target="_blank">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/VK%20Logo.png" alt="VK Logo" style="width: 50px; height: 50px;">
+</a>
+
 
 
 ## My Skill Set  
@@ -43,3 +50,6 @@
 <br/>  
 
 ## My education
+- 🔭 I’m currently working for O2 Trading
+- 🌱 I’m currently learning PyTorch and Keras
+- ⚡ Fun fact: hardworking > talent
