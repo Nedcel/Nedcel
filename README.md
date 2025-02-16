@@ -23,15 +23,15 @@
 </a>
 
 <a href="https://t.me/nedcel" target="_blank">
-  <img src="https://github.com/Nedcel/Nedcel/blob/main/tg%20logo.png" alt="TG Logo" style="width: 90px; height: 50px;">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/tg%20logo.png" alt="TG Logo" style="width: 50px; height: 50px;">
 </a>
 
 <a href="mailto:artemkozinov@mail.ru" target="_blank">
-  <img src="https://github.com/Nedcel/Nedcel/blob/main/mail%20logo.png" alt="Mail Logo" style="width: 60px; height: 60px;">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/mail%20logo.png" alt="Mail Logo" style="width: 50px; height: 50px;">
 </a>
 
 <a href="mailto:barret.m82b@gmail.com" target="_blank">
-  <img src="https://github.com/Nedcel/Nedcel/blob/main/gmail%20logo.png" alt="Gmail Logo" style="width: 70px; height: 50px;">
+  <img src="https://github.com/Nedcel/Nedcel/blob/main/gmail%20logo.png" alt="Gmail Logo" style="width: 50px; height: 50px;">
 </a>
 
 
