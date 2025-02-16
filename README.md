@@ -2,22 +2,19 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNibDMyd3l1N2Z0bTlkdTVuemdqMXg0cm9uZzBndTY2M3plNDN1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13UZisxBxkjPwI/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">🖐️Hey! I'm Artem, beginner DS/ML engineer</div>  
-  
+ 
 <div align="center">
-- 🔭 I’m currently working for O2 Trading  
+  <h1>🖐️Hey! I'm Artem, beginner DS/ML engineer</h1>
   
-
-- 🌱 I’m currently learning PyTorch and Keras  
-  
-
-- ⚡ Fun fact: hardworking > talent  
+  <div style="text-align: center;">
+    <p>- 🔭 I’m currently working for O2 Trading</p>
+    <p>- 🌱 I’m currently learning PyTorch and Keras</p>
+    <p>- ⚡ Fun fact: hardworking > talent</p>
   </div>
+</div>
 
-<br/>  
 
-## About me
+## About Me
 
 
 ## My Skill Set  
