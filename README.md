@@ -17,7 +17,7 @@
 ## Few Words About Me
   Learning programming since 2023. had an internship, participated in hackathons, case championships, etc. I got a part-time job at a startup writing models for algorithmic trading. For now, I would not recommend trading through them. On my way to a career change, wish me luck!
   
-## Contact with me
+## Contact With Me
 <a href="https://vk.com/nedcel" target="_blank">
   <img src="https://github.com/Nedcel/Nedcel/blob/main/VK%20Logo.png" alt="VK Logo" style="width: 50px; height: 50px;">
 </a>
@@ -60,7 +60,3 @@
 
 <br/>  
 
-## My education
-- 🔭 I’m currently working for O2 Trading
-- 🌱 I’m currently learning PyTorch and Keras
-- ⚡ Fun fact: hardworking > talent
