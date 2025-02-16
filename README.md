@@ -15,7 +15,7 @@
 
 
 ## Few Words About Me
-  Learning programming since 2023. had an internship, participated in hackathons, case championships, etc. I got a part-time job at a startup writing models for algorithmic trading. For now, I would not recommend trading through them. On my way to a career change, wish me luck!
+  Learning programming since 2023. had an internship, participated in hackathons, case championships, etc. I got a part-time job at a startup writing models for algorithmic trading. Although, I would not recommend trading through them yet 😄. On my way to a career change, wish me luck!
   
 ## Contact With Me
 <a href="https://vk.com/nedcel" target="_blank">
