@@ -5,7 +5,7 @@
 
 ### <div align="center">🖐️Hey! I'm Artem, beginner DS/ML engineer</div>  
   
-
+<div align="center">
 - 🔭 I’m currently working for O2 Trading  
   
 
@@ -13,7 +13,7 @@
   
 
 - ⚡ Fun fact: hardworking > talent  
-  
+  </div>
 
 <br/>  
 
