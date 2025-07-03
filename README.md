@@ -4,7 +4,7 @@
   
  
 <div align="center">
-  <h1>🖐️Hey! I'm Artem, junior DS/ML engineer</h1>
+  <h1>🖐️Hey! I'm Artem, DS/ML engineer</h1>
   
   <div style="text-align: center;">
     <p>- 🔭 I’m currently working for O2 Trading</p>
