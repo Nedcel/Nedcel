@@ -7,7 +7,6 @@
   <h1>🖐️Hey! I'm Artem, DS/ML engineer</h1>
   
   <div style="text-align: center;">
-    <p>- 🔭 I’m currently working for O2 Trading</p>
     <p>- 🌱 I’m currently learning PyTorch and Keras</p>
     <p>- ⚡ Fun fact: hardworking > talent</p>
   </div>
