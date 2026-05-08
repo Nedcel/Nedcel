@@ -7,6 +7,6 @@
   <h1>🖐️Hey! I'm Artem, DS/ML engineer</h1>
   
   <div style="text-align: center;">
-    <p>- 🌱 </p>
+    <p> 🌱 </p>
   </div>
 </div>
